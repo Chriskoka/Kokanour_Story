@@ -1,6 +1,0 @@
-"""
-Math Functions
-"""
-
-#exponents
-
